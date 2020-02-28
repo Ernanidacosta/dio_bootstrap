@@ -18,3 +18,12 @@ body{
 .marcas{
     background-color: yellow;
 }
+
+.parceiros{
+    background-color: rgb(255, 174, 0);
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
